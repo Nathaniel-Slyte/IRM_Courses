@@ -49,6 +49,8 @@ For C and Python, you have plenty tutorials only, from Open Classroom to Tutoria
 - C/Python by freeCodeCamp. Very in-depth, they sometimes spend too much time on some details but are very good. (If you end up skipping things, please look the "pointers" part)
 
 > You'll have to install and figure out how to compile a program in C on linux. Luckily, I've got something for you: https://www.youtube.com/watch?v=lrx5dcB_4Oo
+>
+> Also, the C video uses "CodeBlocks" for developing C programs. I encourage you to try out other text editors lke Atom or VsCode and do the compilig by hand using the video above as a starting point.
 
 https://www.youtube.com/watch?v=KJgsSFOSQv0
 
@@ -62,3 +64,12 @@ https://www.rocq.inria.fr/secret/Anne.Canteaut/COURS_C/cours.pdf
 
 https://wiki.python.org/moin/BeginnersGuide/Programmers
 
+https://docs.python.org/3/tutorial/
+
+## Other References
+
+To go further I recommend you:
+
+`Modern Operating Systems`: https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books/blob/master/Modern%20Operating%20Systems%204th%20Edition--Andrew%20Tanenbaum.pdf or in the DVIC Library for a hardcover version
+
+`Efficient Python` That an be found in the DVIC Library
