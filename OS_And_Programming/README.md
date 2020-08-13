@@ -78,7 +78,7 @@ This document is divided in 3 sections.
 
 ## Bibliography
 
-> Try to watch and understand as much as you can
+> Try to watch and understand as much as you can, try not to tunnel-vision on a single resource
 
 > Ben Eater's Playlist on the 8 bit computer, you will see this again in the Electronics lesson, but it's a must-see.
 >
@@ -104,7 +104,7 @@ This document is divided in 3 sections.
 >
 > https://www.youtube.com/watch?v=e7BufAVwDiM
 
-For C and Python, you have plenty tutorials only, from Open Classroom to Tutorials Point, However they sometimes don't cover all the essentials, and to be on the same page I'll link you:
+For C and Python, you have plenty tutorials online, from Open Classroom to Tutorials Point, However they sometimes don't cover all the essentials, and to be on the same page I'll link you:
 
 > C/Python by freeCodeCamp. Very in-depth, they sometimes spend too much time on some details but are very good. (If you end up skipping things, please look the "pointers" part)
 >
