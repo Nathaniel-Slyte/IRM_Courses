@@ -68,6 +68,7 @@ This document is divided in 3 sections.
 - Structures, using syscalls
 - Compilation in-depth: dynamic linking
 - Error Management with `errno`
+- Inter Process Communications: The hard way
 
 ### III) Python
 
@@ -75,6 +76,7 @@ This document is divided in 3 sections.
 - Using pip, and modules
 - File manipulation
 - Object Oriented Programming
+- Inter Process Communication: The easy way
 
 ## Bibliography
 
