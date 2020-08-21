@@ -102,7 +102,7 @@ This document is divided in 3 sections.
 >
 > https://www.youtube.com/watch?v=qlH4-oHnBb8
 
-> Detailed Bash. See part 1 to 8 and 19
+> Detailed Bash. See part 1 to 8 and 19 (Timestamp: 2:31:14)
 >
 > https://www.youtube.com/watch?v=e7BufAVwDiM
 
