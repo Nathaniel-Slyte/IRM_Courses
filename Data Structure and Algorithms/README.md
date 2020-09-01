@@ -48,3 +48,13 @@
 > `Lecture Notes forData Structures and Algorithms` https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf
 >
 > Excellent read, very in-depth with examples, 
+
+> `Data Structures` from the Python doc https://docs.python.org/3/tutorial/datastructures.html
+> Basic data structures applied in python. 
+
+> Rapide et Moyennement dur [Classic Data Structures by Samanta Debasis ](https://www.amazon.fr/Classic-Structures-Samanta-Debasis-2009-12-01/dp/B01K3K8I3M/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=CLASSIC+DATA+STRUCTURES&qid=1595500043&sr=8-2)
+
+> Assez dur & plus en détail sur les graphs [A First Course in Graph Theory](https://www.amazon.com/First-Course-Graph-Theory-Mathematics/dp/0486483681/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0486483681&pd_rd_r=03H9BX432YNJ23H2K2SV&pd_rd_w=n7ca1&pd_rd_wg=oQVo1&psc=1&refRID=03H9BX432YNJ23H2K2SV)
+
+> Très complet & assez compliqué [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/ref=dp_ob_title_bk)
+
