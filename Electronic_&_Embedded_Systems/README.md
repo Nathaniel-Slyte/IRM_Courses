@@ -120,11 +120,26 @@ Not yet implemented, course in December
 
 ### 1) Bibliography
 
-3 things to know:
+Here is the template for each chapter :
 
-* Each chapter has a PDF with a bibliography concerning the chapter.
-* The PDF is sort by subject in the chapter (resistor, transistor, etc..). I advise you to work on two resources for each subject minimum.
-* As this is the first year of this program, all the resources are new and will probably evolve during the next week. Keep an eye on it and check the last updates.
+----------------------------------------------
+
+## Books
+Here you can find different book or class online. I advise you to use them, most of the course come from them.
+It's not obligatory to read them, but if you need to go deeper it's must do
+## Resources
+
+### Name of the section
+You need to work on each section.
+#### level 1
+All the resources in this level are obligatory. You need to use them all and understand them.
+#### level 2
+All the resources in this level are optional. I advise to work on them as you will need them for the project, and can have question on them during QCM (less than level 1).
+## Miscellaneous
+Just a bunch of useful or funny things I found, totally optional
+
+----------------------------------------------
+
 
 ### 2) Courses
 
