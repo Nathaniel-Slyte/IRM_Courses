@@ -18,7 +18,7 @@
 
 ### Introduction
 
-- Throwback to the fist lesson, notions of memory mapping
+- Throwback to the first lesson, notions of memory mapping
 - What are data structures. A few examples
 
 ### I) Data Structures
