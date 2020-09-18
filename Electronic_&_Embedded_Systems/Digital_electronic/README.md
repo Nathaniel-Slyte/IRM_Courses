@@ -17,7 +17,7 @@
 ### Logic gates
 #### Level 1
 * [Introduction to digital logic](https://iopscience.iop.org/chapter/978-1-6817-4660-9/bk978-1-6817-4660-9ch1.pdf)
-* [Logic gates 1](https://www.youtube.com/watch?v=9lqwSaIDm2g&list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL&index=20&ab_channel=TheOrganicChemistryTutor)
+* [Logic gates](https://www.youtube.com/watch?v=9lqwSaIDm2g&list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL&index=20&ab_channel=TheOrganicChemistryTutor)
 
 #### Level 2
 * [Logic gates](https://www.youtube.com/watch?v=95kv5BF2Z9E&ab_channel=DrPhysicsA)
@@ -32,19 +32,20 @@
 * [JK flip-flop](https://www.youtube.com/watch?v=F1OC5e7Tn_o&ab_channel=BenEater)
 
 #### Level 2
-* [Circuits 1](https://www.youtube.com/watch?v=jPSIQDyKm90&list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL&index=57)
+
 
 
 
 ### Digital electronic
 #### Level 1
-* [Transistors 1](https://www.youtube.com/watch?v=OwS9aTE2Go4&list=PLx7ERghZ6LoNVOowf-mEKRw_p1sJyJ0ew&index=7&ab_channel=RealEngineering)
+* [Binary 1](https://www.youtube.com/watch?v=1GSjbWt0c9M&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&index=5&ab_channel=CrashCourse)
+* [Binary 2](https://www.youtube.com/watch?v=1I5ZMmrOfnA&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&index=6&ab_channel=CrashCourse)
+* [Binary 3](https://www.youtube.com/watch?v=VBDoT8o4q00&ab_channel=InOneLesson)
+* [Binary 3](https://www.youtube.com/watch?v=Ieq8AR8krrA&ab_channel=Max%27sTech)
+* [Binary 3](https://www.youtube.com/watch?v=Xpk67YzOn5w&ab_channel=BasicsExplained%2CH3Vtux)
 
 #### Level 2
-* [Circuits 1](https://www.youtube.com/watch?v=jPSIQDyKm90&list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL&index=57)
 
 
 
 ### Miscellaneous
-
-* [OpAmp](https://www.youtube.com/watch?v=kqCV-HGJc6A)
