@@ -136,3 +136,4 @@ Optional:
 * [If you ever wondered how a rail gun work (with beautiful dance)](https://www.youtube.com/watch?v=NJRDclzi5Vg)
 * [Don't throw batteries](https://www.youtube.com/watch?v=foYWdyACCHE)
 * [Salvage](https://www.youtube.com/watch?v=Nb78wF1Tkwc)
+* [Right-hand rules](https://www.youtube.com/watch?v=tXI7Wd1ElF8&ab_channel=SKYLIGHT123456)
