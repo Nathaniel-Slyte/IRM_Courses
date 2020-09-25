@@ -8,7 +8,6 @@
 
 ### NP liaisons
 #### Level 1
-* [All about circuits | Vol. 3](https://www.allaboutcircuits.com/textbook/)
 * [NP liaisons](https://www.youtube.com/watch?v=ethnHSgVbHs)
 
 
