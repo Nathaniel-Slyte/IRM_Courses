@@ -6,32 +6,35 @@ I tried to make the chapter themes driven but you'll see that tons of it overflo
 
 In each chapter you'll find the slides, the exercises and the bibliography relevant for the day. the bibliography comes in two (2) types : Books reference and YouTube links. The YouTube links are good for discovering the subjects but I cannot urge you enough to read or at least take a look at the books ! (plus they are in french)
 
-One last thing : in the section 00 you'll find a glossaire for Industrial design, it could be really helpful to print it out !
+One last thing : in the section 00 you'll find a glossary for Industrial design, it could be really helpful to print it out !
 
-## Tools :
+## Equipment :
 
 *You won't be needing a computer unless told otherwise*
 
-Pencil & Paper
-Coloring Pencils
-Ruler
-Compass
+* Pencil & Paper
+* Coloring Pencils
+* Rulers
+* Compass
 
 ## Books used :
 
 *I uploaded the books in pdf format when I found those.*
 
-Ellipse Sciences Industriels de l'ingénieur (PTSI)
-Chevalier Guide du Dessinateur Industriel
-Le dessin technique (pdf)
-Le dessin Industriel
+* Ellipse Sciences Industriels de l'ingénieur (PTSI) [lab only]
+* Chevalier Guide du Dessinateur Industriel [pdf + lab]
+* Le dessin technique [pdf only]
+* Le dessin Industriel [pdf only]
+* Printing for Design, Design for Printing [lab only]
 
-## Youtube Channels :
+## YouTube Channels :
 
 *the links are posted when relevant but most of those come from here*
 
-Adam Savage Tested
-I make stuff
+* Adam Savage Tested :
+* I like to make stuff :
+* Les bons profs :
+* Educational Video Library : https://www.youtube.com/channel/UC0LHEYTEAyndlUqRJYtBZEg/videos
 
 ## Planning :
 
