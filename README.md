@@ -11,3 +11,4 @@ You can find the [IRM Track Summary document by clicking this link](https://dvic
 * Grégor JOUET : gregor.jouet@ext.devinci.fr
 * Yliess HATI  : yliess.hati@devinci.fr
 * Brice PARILUSYAN : brice.parilusyan@gmail.com
+* Zacharie GUILLAUME : zacharie.guiilaume@outlook.fr
