@@ -31,9 +31,8 @@ One last thing : in the section 00 you'll find a glossary for Industrial design,
 
 *the links are posted when relevant but most of those come from here*
 
-* Adam Savage Tested :
-* I like to make stuff :
-* Les bons profs :
+* Adam Savage Tested : https://www.youtube.com/c/tested/videos
+* I like to make stuff : https://www.youtube.com/c/Iliketomakestuff/videos
 * Educational Video Library : https://www.youtube.com/channel/UC0LHEYTEAyndlUqRJYtBZEg/videos
 
 ## Planning :

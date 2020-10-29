@@ -31,8 +31,11 @@
 
 * Technical Drawing : https://www.youtube.com/c/SachinPandya/videos
 * Educational Video Library : https://www.youtube.com/channel/UC0LHEYTEAyndlUqRJYtBZEg/videos
+* Elio Da Cruz Dessin technique (playlist) : https://www.youtube.com/playlist?list=PLAPw2yN4kn-jbTXAx0WD1IW2R3g13ePHS
 
 ## Recommended YouTube videos
+
+*Reminder : You can watch in speed x2*
 
 * Basic Blueprints reading skills (13:15) : https://www.youtube.com/watch?v=PQl48npP2e4
 * Drafting Tips - Basic Drafting Techniques - Penn State University (28:31):
@@ -108,10 +111,6 @@ https://www.youtube.com/watch?v=Axj3essEW1Y
     - 3.4.2 Liaison encastrement : Indémontable
     - 3.4.3 Liaison encastrement : Démontable
     - 3.4.4 Critère de choix des liaisons
-  - 3.5 Bien comprendre
-    - 3.5.1 Des exemples
-    - 3.5.2 Lexique
-    - 3.5.3 Ce qu’il fallait retenir
 
 4. Dessin de définition & d’ensemble : Lire et écrire
   - 4.0 La normalisation
@@ -134,7 +133,3 @@ https://www.youtube.com/watch?v=Axj3essEW1Y
     - 4.5.1 Cotation paramétrique
     - 4.5.2 Arbre de fonction
     - 4.5.3 Volumique vs Surfacique
-  - 4.6 Bien comprendre
-    - 4.6.1 Des exemples
-    - 4.6.2 Lexique
-    - 4.6.3 Ce qu’il fallait retenir
