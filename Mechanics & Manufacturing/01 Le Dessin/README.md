@@ -80,10 +80,9 @@ https://www.youtube.com/watch?v=Axj3essEW1Y
     - 2.2.1 De principe
     - 2.2.2 Technologique
   - 2.3 Choix de technologie
-    - 2.3.1 Encastrement -> Vis
-    - 2.3.3 Glissement
-    - 2.3.4 Roulement (3 diapos)
-    - 2.3.5 Engrènement (3 diapos)
+    - 2.3.1 Assemblage fileté
+    - 2.3.2 Roulement
+    - 2.3.3 Engrènement
   - 2.4 Symboles pour schémas
     - 2.4.1 Electriques
     - 2.4.2 Pneumatiques
@@ -95,22 +94,22 @@ https://www.youtube.com/watch?v=Axj3essEW1Y
 3. Schéma architectural & cinématique : Les relations entre les composants
   - 3.0 La physique
   - 3.1 Espace Cartésien
-    - 3.1.1 Translation & Rotation
-    - 3.1.2 Torseurs
-    - 3.1.3 Changement de repère ?
+	- 3.1.1 Translation & Rotation
+	- 3.1.2 Torseurs
+	- 3.1.3 Changement de repère ?
   - 3.2 Les liaisons
-		- 3.2.1 Exemple : La liaison pivot
-		- 3.2.2 Tableaux des liaisons
-    - 3.2.3 Cinématique graphique (amuse-bouche)
-	- 3.3 Les mécanisme
-    - 3.3.1 graphe des liaisons
-    - 3.3.2 liaisons équivalentes : en parallèle
-    - 3.3.3 liaisons équivalentes : en séries
+	- 3.2.1 Exemple : La liaison pivot
+	- 3.2.2 Tableaux des liaisons
+  	- 3.2.3 Cinématique graphique (amuse-bouche)
+  - 3.3 Les mécanisme
+  	- 3.3.1 graphe des liaisons
+	- 3.3.2 liaisons équivalentes : en parallèle
+	- 3.3.3 liaisons équivalentes : en séries
   - 3.4 Modes & moyens de liaisons
-    - 3.4.1 Mise en position et maintien en position
-    - 3.4.2 Liaison encastrement : Indémontable
-    - 3.4.3 Liaison encastrement : Démontable
-    - 3.4.4 Critère de choix des liaisons
+	- 3.4.1 Mise en position et maintien en position
+	- 3.4.2 Liaison encastrement : Indémontable
+	- 3.4.3 Liaison encastrement : Démontable
+	- 3.4.4 Critère de choix des liaisons
 
 4. Dessin de définition & d’ensemble : Lire et écrire
   - 4.0 La normalisation
