@@ -52,12 +52,12 @@ One last thing : in the section 00 you'll find a glossary for Industrial design,
   * Evening :
     * Statique + Exercices
     * cinématique + Ecercices
-  * Day 3 :
-    * Morning :
-      * Introduction
-      * Specification géométrique
-      * Exercices
-    * Evening :
-      * Conception pour la fabrication
-      * Exercices
-      * Démonstration machines
+* Day 3 :
+  * Morning :
+    * Introduction
+    * Specification géométrique
+    * Exercices
+  * Evening :
+    * Conception pour la fabrication
+    * Exercices
+    * Démonstration machines
