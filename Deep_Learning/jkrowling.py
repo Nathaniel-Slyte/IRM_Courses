@@ -174,6 +174,4 @@ for epoch in range(EPOCHS):
             print("================")
             print()
 
-fake = torch.zeros((1, MAX_SEQ))
-trace = torch.jit.trace(model.cpu(), fake.long())
-torch.jit.save(trace, f"Challenge02_{NAME}_{SURNAME}.ts")
+torch.jit.script(model.cpu()).save(f"Challenge02_{NAME}_{SURNAME}.ts")
