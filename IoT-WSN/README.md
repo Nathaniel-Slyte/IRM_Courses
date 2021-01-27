@@ -114,13 +114,13 @@ CFLAGS+=-Os
 CFLAGS+=-DPROJECTCONFH=\”project-conf.h\”
 
 # Include Contiki makefile
-include$(CONTIKI)/Makefile.include
+include $(CONTIKI)/Makefile.include
 ```
 
 ### my project.c in /example/mymainproject/ 
 ``` C
-#include<stdio.h>
-#include”contiki.h”
+#include <stdio.h>
+#include ”contiki.h”
 
 PROCESS(helloworld_process,”Helloworld process”);
 AUTOSTART_PROCESSES(&helloworld_process);
