@@ -98,10 +98,10 @@ For evaluating yourself, you can uncompress a new contiki folder and run ./insta
 For beginning, you will create a first application helloword with your first Contiki makefile as below.  This makefile is run by the Linux command make all TARGET=minimal-net with proper execution right access (*chmod 755 yourfile*).
 
 ### my Makefile in /example/myproject/
-```
+``` make
 CONTIKI=../..
 
-all:yourmainfile
+all: yourmainfile
 
 # Add your application
 APPS+=Apps1
@@ -155,7 +155,9 @@ Contiki OS has a lot of applications such  webserver, telnet, ftp, erbium, etc w
 
 In this section, we will learn how to create your Contiki OS application helloworld. Firstly, you must create a new folder *myapps* in */apps/* in which you must add a new file *Makefile.myapps*. This file defines all files which have to be compiled for your application, see below the example :
 
-```myapps_src = myfile1.c myfile2.c etc```
+``` make
+myapps_src = myfile1.c myfile2.c etc
+```
 
 * Write a helloworld function in */apps/yourapps/helloworld.c*
 * Call this function in your main file /example/myproject/my_project.c
@@ -163,10 +165,10 @@ In this section, we will learn how to create your Contiki OS application hellowo
 
 **/example/myproject/my_project.c**
 
-```
-#include<stdio.h>
-#include”contiki.h”
-#include”helloworld.h”
+``` C
+#include <stdio.h>
+#include ”contiki.h”
+#include ”helloworld.h”
 
 PROCESS(helloworld_process,”Helloworld process”);
 AUTOSTART_PROCESSES(&helloworld_process);
@@ -181,15 +183,16 @@ PROCESS_END();
 
 **/example/myproject/Makefile**
 
+``` make
 CONTIKI=../..
-```
+
 all: myproject
 APPS+=yourapps
 CFLAGS+=-Os
 include$(CONTIKI)/Makefile.include
 ```
 **/apps/yourapps/hello world.c**
-```
+``` C
 #include <stdio.h>
 #include ”contiki.h”
 
@@ -198,7 +201,7 @@ printf(”Helloworld!\n”);
 };
 ```
 **/apps/yourapps/Makefile.yourapps**
-```
+``` make
 yourapps_src = hello_world.c
 ```
 
@@ -218,11 +221,15 @@ USART_BAUD_19200 in main file of avr-atmega128rfa1 platform.
 
 Because you have changed some files which are not part of your project, you will need to save your modifications in a *patch file*. Hence you will be able to integrate automatically these modifications in future works thanks to an installation procedure. The following command will compare and save the difference between two folder :
 
-```diff −crB contiki−ori/ contiki−2.6−modified/ >> patch.diff```
+``` bash
+diff −crB contiki−ori/ contiki−2.6−modified/ >> patch.diff
+```
 
 This patch can apply to an original contiki folder with the following command :
 
-```patch --dry-run -p1 -i patch.diff```
+``` bash
+patch --dry-run -p1 -i patch.diff
+```
 
 ## Create installation procedure
 Create an installation script *install.sh* which : 
@@ -236,7 +243,7 @@ Create an installation script *install.sh* which :
 At this point, when a printf is executed in your program, the output is redirected through the serial line interface. However there is two other contiki bugs to fix : 
 
 * In order to send commands from your computer to contiki through the serial line interface, you will need to add (or to replace by) the following lines in main file of avr-atmega128rfa1 platform and invert 0x0a with 0x0d in file *contiki/core/dev/serial-line.c* beucause of the window and linux different implementations of the end char. 
-```
+``` C
 rs232_init (RS232_PORT_1, USART_BAUD_19200, USART_PARITY_NONE| USART_STOP_BITS_1|USART_DATA_BITS_8);
 rs232_set_input (RS232_PORT_1, serial_line_input_byte);
 rs232_redirect_stdout (RS232_PORT_1);
@@ -251,7 +258,7 @@ rs232_redirect_stdout (RS232_PORT_1);
 ## Shell implementation
 
 Shell is the simplest interface in order to communicate with an operating system kernel. You have to install contiki's one by adding *serial-shell* in your contiki application list in the *APPS* variable of your *Makefile* and add following function calls in your application. 
-```
+``` C
 #include <stdio.h>
 #include ”contiki.h”
 #include ”dev/serial−line.h”
@@ -276,7 +283,7 @@ PROCESS_END ( ) ;
 }
 ```
 After a global recompilation, you should be able to access it through your serial line interface as below : 
-```
+``` bash
 255.255 : Contiki >.
 ```
 * Try to use standard commands like help, etc. What is the purpose of ps command ? 
