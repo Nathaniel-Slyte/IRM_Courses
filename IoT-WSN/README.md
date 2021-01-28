@@ -231,7 +231,7 @@ This patch can apply to an original contiki folder with the following command :
 patch --dry-run -p1 -i patch.diff
 ```
 
-![alt text](https://s3.dvic.devinci.fr/public/InstantContikihardware.png "Patch example")
+![alt text](https://s3.dvic.devinci.fr/public/InstantContikipatch.png "Patch example")
 
 ## Create installation procedure
 Create an installation script *install.sh* which : 
