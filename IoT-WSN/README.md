@@ -219,7 +219,7 @@ USART_BAUD_19200 in main file of avr-atmega128rfa1 platform.
 
 ## Build a patch
 
-Because you have changed some files which are not part of your project, you will need to save your modifications in a *patch file*. Hence you will be able to integrate automatically these modifications in future works thanks to an installation procedure. The following command will compare and save the difference between two folder :
+Because you have changed some files which are not part of your project, you will need to save your modifications in a *patch file*. Hence you will be able to integrate automatically these modifications in future works, as illustrated below, thanks to an installation procedure.The following command will compare and save the difference between two folder :
 
 ``` bash
 diff −crB contiki−ori/ contiki−2.6−modified/ >> patch.diff
@@ -230,6 +230,8 @@ This patch can apply to an original contiki folder with the following command :
 ``` bash
 patch --dry-run -p1 -i patch.diff
 ```
+
+![alt text](https://s3.dvic.devinci.fr/public/InstantContikihardware.png "Patch example")
 
 ## Create installation procedure
 Create an installation script *install.sh* which : 
