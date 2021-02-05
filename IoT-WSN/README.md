@@ -276,10 +276,11 @@ PROCESS_BEGIN ( ) ;
 serial_line_init ();
 serial_shell_init ();
 
-reboot_init ();
-power_init ();
-ps_init ();
-ping_init ();
+shell_reboot_init ();
+shell_power_init ();
+shell_ps_init ();
+shell_ping_init ();
+
 hello_world ();
 PROCESS_END ( ) ;
 }
